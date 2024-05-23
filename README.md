@@ -1,6 +1,6 @@
 # envseis2024
 
-### Short Course on *Computational Methods in Seismology*, May 27, Envseis Project, Milano
+### Short Course on *Computational Methods in Seismology*, May 27, 2024, Envseis Project, Milano
 
 You find here the course material and access to executible Jupyter Notebooks for the Short Course on Numerical Methods at the Envseis Worshop in May 2024. 
 
