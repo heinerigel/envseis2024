@@ -7,13 +7,15 @@ You find here the course material and access to executible Jupyter Notebooks for
 There are several options to run the Jupyter notebooks during the course with Cloud resources. It is wise to use all access methods as resources are limited. 
 
 I. Use the repository of a previous workshop by clicking on the following icon:
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/heinerigel/IGPP_ShortCourse_2022/HEAD?urlpath=/tree/)
 
 II. Use the online Jupyter notebook library seismo-live directly:
-[![](https://seismo-live.github.io)
+
+[Seismo-live](https://seismo-live.github.io)
 
 III. Sign up to the COURSERA course linked below (free!) and use the Jupyter Notebooks in the Labs (directions will be given)
-[![](https://www.coursera.org/learn/computers-waves-simulations) 
+[Coursea](https://www.coursera.org/learn/computers-waves-simulations) 
 
 ### Short Course on *Computational Methods in Geophysics*, October 2 and 4, 2023, Institute of Geophysics and Planetary Physics, SCRIPPS Institution of Oceanography, La Jolla, California
 
