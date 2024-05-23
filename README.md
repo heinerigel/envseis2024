@@ -2,7 +2,7 @@
 
 ### Short Course on *Computational Methods in Seismology*, May 27, 2024, Envseis Project, Milano
 
-You find here the course material and access to executible Jupyter Notebooks for the Short Course on Numerical Methods at the Envseis Worshop in May 2024. 
+You find here the  material and access to executible Jupyter Notebooks for the Short Course on Numerical Methods at the Envseis Worshop in May 2024. 
 
 There are several options to run the Jupyter notebooks during the course with Cloud resources. It is wise to use all access methods as resources are limited. 
 
