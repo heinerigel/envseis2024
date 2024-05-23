@@ -20,7 +20,7 @@ III. Sign up to the COURSERA course linked below (free!) and use the Jupyter Not
 
 Test
 
-<a href="[https://linkstoothersite.com](https://seismo-live.github.io)" target="_bank">Seismolive</a>
+<a href="[[https://linkstoothersite.com](https://seismo-live.github.io)](https://seismo-live.github.io)" target="_bank">Seismolive</a>
 
 
   
