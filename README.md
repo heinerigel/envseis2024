@@ -14,10 +14,10 @@ II. Use the online Jupyter notebook library seismo-live directly:
 
 [Seismo-live](https://seismo-live.github.io)
 
-III. Sign up to the COURSERA course linked below (free!) and use the Jupyter Notebooks in the Labs (directions will be given)
+III. Sign up to the COURSERA course linked below (free!) and use the Jupyter Notebooks in the Labs (directions will be given):
+
 [Coursea](https://www.coursera.org/learn/computers-waves-simulations) 
 
-### Short Course on *Computational Methods in Geophysics*, October 2 and 4, 2023, Institute of Geophysics and Planetary Physics, SCRIPPS Institution of Oceanography, La Jolla, California
 
 Lecturer: Heiner Igel, LMU Munich
 
