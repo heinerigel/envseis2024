@@ -19,6 +19,7 @@ III. Sign up to the COURSERA course linked below (free!) and use the Jupyter Not
 [Coursea](https://www.coursera.org/learn/computers-waves-simulations) 
 
 Enjoy the material!
+
 Heiner
 
 
